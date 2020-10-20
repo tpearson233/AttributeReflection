@@ -1,0 +1,13 @@
+C:\Users\Green\source\repos\AttributeProject\bin\Debug\netcoreapp3.1\AttributeProject.exe
+C:\Users\Green\source\repos\AttributeProject\bin\Debug\netcoreapp3.1\AttributeProject.deps.json
+C:\Users\Green\source\repos\AttributeProject\bin\Debug\netcoreapp3.1\AttributeProject.runtimeconfig.json
+C:\Users\Green\source\repos\AttributeProject\bin\Debug\netcoreapp3.1\AttributeProject.runtimeconfig.dev.json
+C:\Users\Green\source\repos\AttributeProject\bin\Debug\netcoreapp3.1\AttributeProject.dll
+C:\Users\Green\source\repos\AttributeProject\bin\Debug\netcoreapp3.1\AttributeProject.pdb
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.csprojAssemblyReference.cache
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.AssemblyInfoInputs.cache
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.AssemblyInfo.cs
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.csproj.CoreCompileInputs.cache
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.dll
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.pdb
+C:\Users\Green\source\repos\AttributeProject\obj\Debug\netcoreapp3.1\AttributeProject.genruntimeconfig.cache

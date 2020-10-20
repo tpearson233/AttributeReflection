@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vz+NczrM5FG2MUUhl/vvgd8VKtei/Jm1Z01NOfBDhlNo1K5/lqZMjFyHS/iSRovIsDHbDDcrpHCx82ZiFHKlCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Green\\source\\repos\\AttributeProject\\AttributeProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Green\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Green\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
